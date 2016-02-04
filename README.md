@@ -19,7 +19,7 @@ The fastest code, as long as it passes our correctness tests, wins.
   If you live elsewhere you are still
   welcome to submit your solution for fun - it will be evaluated and scored,
   but will not be eligable for a cash prize.
-* Send your solution to africa@hola.org.
+* Send your solution to africa+gh@hola.org.
 * Submission deadline: **March 10, 2016**, 23:59:59 UTC.
   * Winner evaluation test-suite will be publicized on March 14, 2016.
     This will include initial (non-final) performance results.
