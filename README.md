@@ -81,7 +81,7 @@ exports.substring_search = function(substrings, text){
         }
     });
     return res;
-}
+};
 ```
 
 # More about Hola!
