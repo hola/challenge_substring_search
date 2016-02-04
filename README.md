@@ -80,10 +80,10 @@ export.substring_search = function(substring, text){
 
 # Previous Hola challenges
 
-* [2015 Winter: JS mail filter](http://hola.org/challenge_mail_filter)<br>
-  [Results](https://github.com/hola/challenge_mail_filter)
-* [2015 Spring: JS fastest generic linked list](http://hola.org/challenge_js)<br>
-  [results](https://github.com/hola/challenge_linked_list)
+* [2015 Winter: JS mail filter](http://hola.org/challenge_mail_filter)
+  ([Results](https://github.com/hola/challenge_mail_filter))
+* [2015 Spring: JS fastest generic linked list](http://hola.org/challenge_js) 
+  ([results](https://github.com/hola/challenge_linked_list))
 * [2014 Winter: JS make strftime 50x faster](https://github.com/hola/challenge_strftime)
-* [2012-2013: C challenge](http://hola.org/challenge_c) [Winners](http://hola.org/winners)
+* [2012-2013: C challenge](http://hola.org/challenge_c) ([Winners](http://hola.org/winners))
 
