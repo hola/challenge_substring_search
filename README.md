@@ -96,7 +96,7 @@ Hola was founded by serial entrepreneurs with the goal of making a better Intern
 Hola's overlay P2P network for HTTP has disrupted the [consumer VPN](http://hola.org)
 and [online business intelligence](http://luminati.io) markets,
 and is [on its way to disrupting the $5B/yr CDN market](http://holacdn.com).
-Hola is well funded and profitable (read more about us).
+Hola is well funded and profitable ([read more about us](http://hola.org/about)).
 
 # Our previous challenges
 
