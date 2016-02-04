@@ -7,7 +7,7 @@ Welcome to Hola's new JS programming challenge! Do you have the skills to write 
 * Third prize: **350 USD**.
 * We might also decide to award a 200 USD special prize for an exceptionally creative approach.
 
-Refer a friend to this page by email, and include africa@hola.org in CC, and if he wins, you will win the same amount too!
+Refer a friend to this page by email, and include africa+gh@hola.org in CC, and if he wins, you will win the same amount too!
 
 For Hola, it's a chance to get to know many talented programmers, and to invite those who submit good code for job interviews.
 
