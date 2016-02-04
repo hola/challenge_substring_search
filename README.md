@@ -52,18 +52,18 @@ and will return the number of occurrences of each of the substrings in text, cas
 All strings in the input are non-empty and only contain ASCII characters between 0x20 and 0x7F (inclusive).
 
 ## Example
-```
+```javascript
 substring_search(['gsm', 'phone', 's'], '')
 ```
 should return `{gsm: 0, phone: 0}`
 
-```
+```javascript
 substring_search(['gsm', 'phone', 's'], 'gsm-phones: Using a GSM phone in USA may be problematic')
 ```
 should return `{gsm: 1, phone: 2: s: 4}`
 
 ## Reference implementation
-```
+```javascript
 export.substring_search = function(substring, text){
     var res = {};
     substring.forEach(s=>{
@@ -82,7 +82,7 @@ export.substring_search = function(substring, text){
 
 * [2015 Winter: JS mail filter](http://hola.org/challenge_mail_filter)
   ([Results](https://github.com/hola/challenge_mail_filter))
-* [2015 Spring: JS fastest generic linked list](http://hola.org/challenge_js) 
+* [2015 Spring: JS generalize Node.js's linked list](http://hola.org/challenge_js) 
   ([results](https://github.com/hola/challenge_linked_list))
 * [2014 Winter: JS make strftime 50x faster](https://github.com/hola/challenge_strftime)
 * [2012-2013: C challenge](http://hola.org/challenge_c) ([Winners](http://hola.org/winners))
