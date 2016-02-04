@@ -77,3 +77,12 @@ export.substring_search = function(substring, text){
     return res;
 }
 ```
+
+# Previous Hola challenges
+
+* [2015 Winter: JS mail filter](https://github.com/hola/challenge_mail_filter)
+* [2015 Spring: JS generic linked list](http://hola.org/challenge_js)
+  [results](https://github.com/hola/challenge_linked_list)
+* [2014 Winter: JS strftime 75x faster](https://github.com/mvasilkov/strftime)
+* [2012-2013: C challenge](http://hola.org/challenge_c) [Winners](http://hola.org/winners)
+
