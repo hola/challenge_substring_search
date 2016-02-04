@@ -1,4 +1,4 @@
-# Hola JS Africa Challenge: string serching
+# Hola JS Africa Challenge: substring search
 
 Welcome to Hola's new JS programming challenge! Do you have the skills to write the fastest code? There's prize money at stake:
 
@@ -20,10 +20,10 @@ The fastest code, as long as it passes our correctness tests, wins.
   but will not be eligable for a cash prize.
 * Send your solution to africa@hola.org.
 * Submission deadline: March 10, 2016, 23:59:59 UTC.
-** Winner evaluation test-suite will be publicized on March 14, 2016.
-  This will include a sample non-final performance results.
-** Public discussion on test-suite, and adjustments according to valid feedback until March 21, 2016.
-** Final performance results and winners will be publicized on March 28, 2016.
+  * Winner evaluation test-suite will be publicized on March 14, 2016.
+    This will include a sample non-final performance results.
+  * Public discussion on test-suite, and adjustments according to valid feedback until March 21, 2016.
+  * Final performance results and winners will be publicized on March 28, 2016.
 * You may submit more than once. Only your latest submission, as long as it's still before the deadline, will be evaluated.
 * We will use Node.js v5.x.x (stable release at the time of this publication) for testing.
 * Your code must all be in a single JS file.
