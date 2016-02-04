@@ -15,10 +15,11 @@ For Hola, it's a chance to get to know many talented programmers, and to invite 
 
 The fastest code, as long as it passes our correctness tests, wins.
 
-* This challenge is open for anyone living in **Africa**.
+* This challenge is open all residents of all countries in **Africa**.
   If you live elsewhere you are still
   welcome to submit your solution for fun - it will be evaluated and scored,
-  but will not be eligable for a cash prize.
+  but will not be eligable for a prize.
+  We will contact winners for proof of residency.
 * Send your solution to africa+gh@hola.org.
 * Submission deadline: **March 10, 2016**, 23:59:59 UTC.
   * Winner evaluation test-suite will be publicized on March 14, 2016.
