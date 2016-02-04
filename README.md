@@ -11,7 +11,6 @@ If you e-mail the link to this page to someone, with africa@hola.org in CC, and 
 For Hola, it's a chance to get to know many talented programmers, and to invite those who submit good code for job interviews.
 
 Rules
-This time, we tried to eliminate every possible way for subjective judgment to affect the outcome.
 The fastest code, as long as it passes our correctness tests, wins.
 
 * This challenge is open for anyone living in Africa.
@@ -21,8 +20,9 @@ The fastest code, as long as it passes our correctness tests, wins.
 * Send your solution to africa@hola.org.
 * Submission deadline: March 10, 2016, 23:59:59 UTC.
   * Winner evaluation test-suite will be publicized on March 14, 2016.
-    This will include a sample non-final performance results.
+    This will include initial (non-final) performance results.
   * Public discussion on test-suite, and adjustments according to valid feedback until March 21, 2016.
+    This is to eliminate every possible way for subjective judgment to affect the outcome.
   * Final performance results and winners will be publicized on March 28, 2016.
 * You may submit more than once. Only your latest submission, as long as it's still before the deadline, will be evaluated.
 * We will use Node.js v5.x.x (stable release at the time of this publication) for testing.
