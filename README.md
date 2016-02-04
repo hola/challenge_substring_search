@@ -2,12 +2,13 @@
 
 Welcome to Hola's new JS programming challenge! Do you have the skills to write the fastest code? There's prize money at stake:
 
-* First prize: **1500 USD**.
-* Second prize: **1000 USD**.
-* Third prize: **500 USD**.
-* We might also decide to award a 350 USD special prize for an exceptionally creative approach.
+* First prize: **1000 USD**.
+* Second prize: **700 USD**.
+* Third prize: **350 USD**.
+* We might also decide to award a 200 USD special prize for an exceptionally creative approach.
 
-If you e-mail the link to this page to someone, with africa@hola.org in CC, and that someone enters the competition and wins a prize, you will receive the same amount, too!
+Refer a friend to this page by email, and include africa@hola.org in CC, and if he wins, you will win the same amount too!
+
 For Hola, it's a chance to get to know many talented programmers, and to invite those who submit good code for job interviews.
 
 # Rules
