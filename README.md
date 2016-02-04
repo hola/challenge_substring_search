@@ -14,7 +14,7 @@ For Hola, it's a chance to get to know many talented programmers, and to invite 
 
 The fastest code, as long as it passes our correctness tests, wins.
 
-* This challenge is open for anyone living in Africa.
+* This challenge is open for anyone living in **Africa**.
   If you live elsewhere you are still
   welcome to submit your solution for fun - it will be evaluated and scored,
   but will not be eligable for a cash prize.
