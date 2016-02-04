@@ -10,7 +10,8 @@ Welcome to Hola's new JS programming challenge! Do you have the skills to write 
 If you e-mail the link to this page to someone, with africa@hola.org in CC, and that someone enters the competition and wins a prize, you will receive the same amount, too!
 For Hola, it's a chance to get to know many talented programmers, and to invite those who submit good code for job interviews.
 
-Rules
+# Rules
+
 The fastest code, as long as it passes our correctness tests, wins.
 
 * This challenge is open for anyone living in Africa.
@@ -42,6 +43,7 @@ The fastest code, as long as it passes our correctness tests, wins.
   contradicts this problem statement for a certain input.
 
 # Problem Statement
+
 You are in charge of developing a search engine. Your task is to write a Node.js module exporting one single function:
 substring_search(substrings, text)
 
@@ -49,7 +51,7 @@ Which will count occurences of substrings (up to 100 chars long) in large multi-
 and will return the number of occurrences of each of the substrings in text, case-sensitive.
 All strings in the input are non-empty and only contain ASCII characters between 0x20 and 0x7F (inclusive).
 
-Example:
+## Example
 ```
 substring_search(['gsm', 'phone', 's'], '')
 ```
@@ -60,7 +62,7 @@ substring_search(['gsm', 'phone', 's'], 'gsm-phones: Using a GSM phone in USA ma
 ```
 should return `{gsm: 1, phone: 2: s: 4}`
 
-# Reference implementation
+## Reference implementation
 ```
 export.substring_search = function(substring, text){
     var res = {};
