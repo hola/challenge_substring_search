@@ -70,9 +70,9 @@ should return `{gsm: 1, phone: 2: s: 4, 'm-p': 1}`
 
 ## Reference implementation
 ```javascript
-exports.substring_search = function(substring, text){
+exports.substring_search = function(substrings, text){
     var res = {};
-    substring.forEach(s=>{
+    substrings.forEach(s=>{
         res[s] = 0;
         for (var i=0; i<text.length; i++)
         {
