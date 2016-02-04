@@ -46,9 +46,10 @@ The fastest code, as long as it passes our correctness tests, wins.
 # Problem Statement
 
 You are in charge of developing a search engine. Your task is to write a Node.js module exporting one single function:
+```javascript
 substring_search(substrings, text)
-
-Which will count occurences of substrings (up to 100 chars long) in large multi-megabyte text files,
+```
+Which will count occurences of substrings (up to 100 substrings, each up to 100 chars long) in large multi-megabyte text files,
 and will return the number of occurrences of each of the substrings in text, case-sensitive.
 All strings in the input are non-empty and only contain ASCII characters between 0x20 and 0x7F (inclusive).
 
