@@ -59,9 +59,9 @@ substring_search(['gsm', 'phone', 's'], '')
 should return `{gsm: 0, phone: 0}`
 
 ```javascript
-substring_search(['gsm', 'phone', 's'], 'gsm-phones: Using a GSM phone in USA may be problematic')
+substring_search(['gsm', 'phone', 's', 'm-p'], 'gsm-phones: Using a GSM phone in USA may be problematic')
 ```
-should return `{gsm: 1, phone: 2: s: 4}`
+should return `{gsm: 1, phone: 2: s: 4, 'm-p': 1}`
 
 ## Reference implementation
 ```javascript
@@ -71,7 +71,7 @@ export.substring_search = function(substring, text){
         res[s] = 0;
         for (var i=0; i<text.length; i++)
         {
-            if (text.slice(i).startsWith(s))
+            if (text.slice(i, i+s.length)==s)
                 res[s]++;
         }
     });
