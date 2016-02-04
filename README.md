@@ -27,10 +27,13 @@ The fastest code, as long as it passes our correctness tests, wins.
     This is to eliminate every possible way for subjective judgment to affect the outcome.
   * Final performance results and **winners** will be publicized on **March 28, 2016**.
 * You may submit more than once. Only your latest submission, as long as it's still before the deadline, will be evaluated.
-* We will use **Node.js v5.x.x** (stable release at the time of this publication) for testing.
+* We will use **Node.js v5.5.0** (stable release at the time of this publication) for testing.
+  You are allowed to use any language features available with V8 default settings.
 * Your code must all be in a **single JS file**.
-* Your submission must be in pure JS. If you prefer CoffeeScript or similar, translate to JS before submitting -
+* Submission must be in JS rather than CoffeeScript or similar.
+  If you prefer those languages, translate to JS before submitting -
   and attach your source in the original language (in addition to, not instead of JS).
+  Only your JS file will be tested.
 * It is **not allowed to require any JS modules**, not even the standard ones built into Node.js.
 * We will test your solution for both correctness and performance. Only solutions that pass the correctness
   testing will be admitted to performance testing. The fastest of the correct solutions wins.
