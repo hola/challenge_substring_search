@@ -93,5 +93,5 @@ Hola is well funded and profitable (read more about us).
   ([Results](https://github.com/hola/challenge_mail_filter)) (ended December 25,2015)
 * [generalize Node.js' linked list](https://github.com/hola/challenge_linked_list) (ended June 30, 2015)
 * [Make JS strftime 50x faster](https://github.com/hola/challenge_strftime) (ended June 22, 2014)
-* [2012-2013: C challenge](http://hola.org/challenge_c) ([Winners](http://hola.org/winners))
+* [C str_cpy/str_cat challenge](http://hola.org/challenge_c) ([Winners](http://hola.org/winners)) (running & giving prizes during 2012-2014)
 
