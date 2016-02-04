@@ -2,9 +2,9 @@
 
 Welcome to Hola's new JS programming challenge! Do you have the skills to write the fastest code? There's prize money at stake:
 
-* First prize: 1500 USD.
-* Second prize: 1000 USD.
-* Third prize: 500 USD.
+* First prize: **1500 USD**.
+* Second prize: **1000 USD**.
+* Third prize: **500 USD**.
 * We might also decide to award a 350 USD special prize for an exceptionally creative approach.
 
 If you e-mail the link to this page to someone, with africa@hola.org in CC, and that someone enters the competition and wins a prize, you will receive the same amount, too!
@@ -19,18 +19,18 @@ The fastest code, as long as it passes our correctness tests, wins.
   welcome to submit your solution for fun - it will be evaluated and scored,
   but will not be eligable for a cash prize.
 * Send your solution to africa@hola.org.
-* Submission deadline: March 10, 2016, 23:59:59 UTC.
+* Submission deadline: **March 10, 2016**, 23:59:59 UTC.
   * Winner evaluation test-suite will be publicized on March 14, 2016.
     This will include initial (non-final) performance results.
   * Public discussion on test-suite, and adjustments according to valid feedback until March 21, 2016.
     This is to eliminate every possible way for subjective judgment to affect the outcome.
-  * Final performance results and winners will be publicized on March 28, 2016.
+  * Final performance results and **winners** will be publicized on **March 28, 2016**.
 * You may submit more than once. Only your latest submission, as long as it's still before the deadline, will be evaluated.
-* We will use Node.js v5.x.x (stable release at the time of this publication) for testing.
-* Your code must all be in a single JS file.
+* We will use **Node.js v5.x.x** (stable release at the time of this publication) for testing.
+* Your code must all be in a **single JS file**.
 * Your submission must be in pure JS. If you prefer CoffeeScript or similar, translate to JS before submitting -
   and attach your source in the original language (in addition to, not instead of JS).
-* It is not allowed to require any JS modules, not even the standard ones built into Node.js.
+* It is **not allowed to require any JS modules**, not even the standard ones built into Node.js.
 * We will test your solution for both correctness and performance. Only solutions that pass the correctness
   testing will be admitted to performance testing. The fastest of the correct solutions wins.
 * All submissions, as well as our correctness and performance tests, will be published after the end
@@ -78,12 +78,19 @@ export.substring_search = function(substring, text){
 }
 ```
 
-# Previous Hola challenges
+# More about Hola!
 
-* [2015 Winter: JS mail filter](http://hola.org/challenge_mail_filter)
-  ([Results](https://github.com/hola/challenge_mail_filter))
-* [2015 Spring: JS generalize Node.js's linked list](http://hola.org/challenge_js) 
-  ([results](https://github.com/hola/challenge_linked_list))
-* [2014 Winter: JS make strftime 50x faster](https://github.com/hola/challenge_strftime)
+Hola was founded by serial entrepreneurs with the goal of making a better Internet.
+Hola's overlay P2P network for HTTP has disrupted the [consumer VPN](http://hola.org)
+and [online business intelligence](http://luminati.io) markets,
+and is [on its way to disrupting the $5B/yr CDN market](http://holacdn.com).
+Hola is well funded and profitable (read more about us).
+
+# Our previous challenges
+
+* [JS mail filter](http://hola.org/challenge_mail_filter)
+  ([Results](https://github.com/hola/challenge_mail_filter)) (ended December 25,2015)
+* [generalize Node.js' linked list](https://github.com/hola/challenge_linked_list) (ended June 30, 2015)
+* [Make JS strftime 50x faster](https://github.com/hola/challenge_strftime) (ended June 22, 2014)
 * [2012-2013: C challenge](http://hola.org/challenge_c) ([Winners](http://hola.org/winners))
 
