@@ -58,7 +58,7 @@ and will return the number of occurrences of the substrings in text, case-sensit
 
 Valid input, which you can optimize/tune for:
 Anything that passes
-(valid_input.js)[https://github.com/hola/challenge_substring_search/blob/master/valid_input.js]
+[valid_input.js](https://github.com/hola/challenge_substring_search/blob/master/valid_input.js)
 * No more than 100 substrings, up to 100 in length
 * Strings contain only ASCII characters between 0x20 and 0x7F.
 Solution may have undefined behavior on non-valid input.
