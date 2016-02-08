@@ -72,7 +72,7 @@ should return `{gsm: 0, phone: 0, s: 0}`
 ```javascript
 substring_search(['gsm', 'phone', 's', 'm-p'], 'gsm-phones: Using a GSM phone in USA may be problematic')
 ```
-should return `{gsm: 1, phone: 2: s: 4, 'm-p': 1}`
+should return `{gsm: 1, phone: 2, s: 3, 'm-p': 1}`
 
 ## Reference implementation
 ```javascript
