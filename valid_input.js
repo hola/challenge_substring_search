@@ -1,5 +1,5 @@
 var assert = require('assert');
-exprots.valid_input = function(substrings, text){
+exports.valid_input = function(substrings, text){
     assert(typeof text=='string');
     assert(/^[\x20-\x7f]*$/.test(text));
     assert(Array.isArray(substrings));
