@@ -18,7 +18,7 @@ The fastest code, as long as it passes our correctness tests, wins.
 * This challenge is open all residents of all countries in **Africa**.
   If you live elsewhere you are still
   welcome to submit your solution for fun - it will be evaluated and scored,
-  but will not be eligable for a prize.
+  but will not be eligible for a prize.
   We will contact winners for proof of residency.
 * Send your solution to africa+gh@hola.org.
 * Submission deadline: **March 10, 2016**, 23:59:59 UTC.
@@ -53,7 +53,7 @@ You are in charge of developing a search engine. Your task is to write a Node.js
 ```javascript
 substring_search(substrings, text)
 ```
-Which will count occurences of substrings in large multi-megabyte text files,
+Which will count occurrences of substrings in large multi-megabyte text files,
 and will return the number of occurrences of the substrings in text, case-sensitive.
 
 Valid input, which you can optimize/tune for:
@@ -67,7 +67,7 @@ Solution may have undefined behavior on non-valid input.
 ```javascript
 substring_search(['gsm', 'phone', 's'], '')
 ```
-should return `{gsm: 0, phone: 0}`
+should return `{gsm: 0, phone: 0, s: 0}`
 
 ```javascript
 substring_search(['gsm', 'phone', 's', 'm-p'], 'gsm-phones: Using a GSM phone in USA may be problematic')
