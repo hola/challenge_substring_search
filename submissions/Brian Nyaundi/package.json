@@ -1,0 +1,10 @@
+{
+  "name": "Search SubStrings in String",
+  "version": "0.0.1",
+  "description": "counts the number of occurrences of substrings in a large text string",
+  "repository": "",
+  "author": "Brian <danleyb2@outlook.com>",
+  "dependencies": {
+    
+  }
+}

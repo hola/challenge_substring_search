@@ -1,0 +1,11 @@
+{
+  "name": "substring_searchmod",
+  "version": "1.0.0",
+  "description": "HOLA challenge - module developed by Gregory Rebisz to search for strings within a larger string and return occurences",
+  "main": "cubstring_searchMod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregory Rebisz <grebisz@gmail.com>",
+  "license": "ISC"
+}

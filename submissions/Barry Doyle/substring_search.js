@@ -1,0 +1,1 @@
+exports.substring_search=function(substrings,text){var res={};substrings.forEach(s=>{res[s]=text.split(s).length-1;});return res;}
