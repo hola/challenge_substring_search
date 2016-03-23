@@ -21,7 +21,7 @@ The fastest code, as long as it passes our correctness tests, wins.
   We will contact winners for proof of residency.
 * Send your solution to africa+gh@hola.org.
 * Submission deadline: **March 10, 2016**, 23:59:59 UTC.
-  * Our test-suite will be publicized on **March 14, 2016** (update 14-Mar: will be published in the next days).
+  * Our test-suite will be publicized on **March 14, 2016** (update 23-Mar: will be published in the next days).
     This will include initial (non-final) performance results.
   * Public discussion of the test-suite will happen next. We expect feedback
     until **March 21, 2016**, and may make adjustments based on well-founded
