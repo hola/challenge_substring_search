@@ -23,11 +23,11 @@ The fastest code, as long as it passes our correctness tests, wins.
 * Submission deadline: **March 10, 2016**, 23:59:59 UTC.
   * Our test-suite will be publicized on **March 14, 2016**.
     This will include initial (non-final) performance results.
-  * Public discussion of the test-suite will happen next. We expect feedback
-    until **March 21, 2016**, and may make adjustments based on well-founded
+  * Public discussion of the test-suite will happen next (delayed to **March 26**). We expect feedback
+    until **March 21, 2016** (delayed to **April 2**), and may make adjustments based on well-founded
     comments. This is to eliminate every possible way for subjective judgment
     to affect the outcome.
-  * Final performance results and **winners** will be publicized on **March 28, 2016**.
+  * Final performance results and **winners** will be publicized on **March 28, 2016** (delayed to **April 9**).
 * You may submit more than once. Only your latest submission, as long as it's still before the deadline, will be evaluated.
 * We will use **Node.js v5.5.0** (stable release at the time of this publication) for testing.
   You are allowed to use any language features available with V8 default settings.
