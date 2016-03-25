@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "random-js": "1.0.8",
+        "sentence-generator": "0.1.2"
+    }
+}
