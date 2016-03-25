@@ -5,6 +5,7 @@ const fs = require('fs');
 const random_js = require('random-js');
 const sentence_generator = require('sentence-generator');
 const reference = require('./reference.js');
+const valid_input = require('./valid_input.js');
 
 const seed = 9001;
 const random = new random_js(random_js.engines.mt19937().seed(seed));
@@ -52,6 +53,7 @@ function main(){
         }
     }
     let result = reference.substring_search(needles, haystack);
+    valid_input.valid_input(needles, haystack);
     fs.writeFileSync('large.json',
         JSON.stringify({needles, haystack, result}));
 }
