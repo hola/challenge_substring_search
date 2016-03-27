@@ -105,3 +105,59 @@ Hola is well funded and profitable ([read more about us](http://hola.org/about))
 * [Generalize Node.js' linked list](https://github.com/hola/challenge_linked_list) (ended June 30, 2015)
 * [Make JS strftime 50x faster](https://github.com/hola/challenge_strftime) (ended June 22, 2014)
 * [str_cpy & str_cat C challenge](https://github.com/hola/challenge_c) (2012–2014)
+
+## Final standings
+
+Place | Name                                | Performance | Remark
+-----:|-------------------------------------|------------:|--------------------------
+    1 | Ralf Kistner                        |         100 | **1000 USD prize**
+    2 | Joran Dirk Greef                    |         102 | **700 USD prize**
+    3 | Mike Yudaken                        |         103 | **350 USD prize**
+    4 | Anton Koekemoer                     |         185 | 
+    5 | cr1s                                |         233 | 
+    6 | Simon Buerger                       |         235 | 
+    7 | Justin Lovell	                      |         236 |
+    7 | Nolan Pather	                      |         236 |
+    9 | Bernhard Häussermann                |         291 |
+   10 | Daniel Lawrence                     |         305 |
+   11 | Ken Ramela                          |         328 | 
+   12 | Gregg Jansen Van Vüren              |         698 |
+   13 | Richard Pierce-Jones                |        1192 |
+   14 | Gerard Louw                         |        1207 |
+   15 | Arthur Okeke                        |        1248 |
+   16 | Adam Katz                           |        2476 |
+   17 | Guillaume                           |        4684 |
+   18 | Ezinwa Okpoechi                     |        6637 |
+   19 | kywedol                             |       13001 |
+      | Abdul Mueid                         |             |
+      | Abimbola Idowu                      |             |
+      | Agustin Cassani                     |             | Hors concours
+      | Alex Schana                         |             |
+      | Andre Ogle                          |             |
+      | Arlon Mukeba                        |             |
+      | Arotimi Busayo                      |             |
+      | Barry Doyle                         |             |
+      | Bbundi                              |             |
+      | Brad Roodt                          |             |
+      | Brendan Bell                        |             |
+      | Brian Nyaundi                       |             |
+      | Charles Okot                        |             |
+      | Chris Brand                         |             |
+      | Christo Goosen                      |             |
+      | Coert Grobbelaar                    |             |
+      | Cornelius van Heerden               |             |
+      | Eni Arinde                          |             |
+      | Gareth McCumskey                    |             |
+      | Greg Rebisz                         |             |
+      | Gustav Bertram                      |             |
+      | John                                |             |
+      | Jono Booth                          |             |
+      | Kenneth Nnani                       |             | 
+      | Kobus Pretorius                     |             |
+      | Lawrence nyakiso                    |             |
+      | Lukas Havenga                       |             |
+      | Mbah Emeka Anthony                  |             |
+      | Melcom van Eeden                    |             |
+      | Rory Gilfillan                      |             |
+      | Shailesh shekhawat                  |             |
+      | Ziv Perry                           |             | Hors concours
