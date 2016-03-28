@@ -129,25 +129,25 @@ The performance tests were run on a 3.4 GHz Intel Core i3 machine running 64-bit
 
 Place | Name                                | Performance | Remark
 -----:|-------------------------------------|------------:|--------------------------
-    1 | Ralf Kistner                        |         100 | **1000 USD prize**
-    2 | Joran Dirk Greef                    |         102 | **700 USD prize**
-    3 | Mike Yudaken                        |         103 | **350 USD prize**
-    4 | Anton Koekemoer                     |         185 | 
-    5 | cr1s                                |         233 | 
-    6 | Simon Buerger                       |         235 | 
-    7 | Justin Lovell	                      |         236 |
-    7 | Nolan Pather	                      |         236 |
-    9 | Bernhard Häussermann                |         291 |
-   10 | Daniel Lawrence                     |         305 |
-   11 | Ken Ramela                          |         328 | 
-   12 | Gregg Jansen Van Vüren              |         698 |
-   13 | Richard Pierce-Jones                |        1192 |
-   14 | Gerard Louw                         |        1207 |
-   15 | Arthur Okeke                        |        1248 |
-   16 | Adam Katz                           |        2476 |
-   17 | Guillaume                           |        4684 |
-   18 | Ezinwa Okpoechi                     |        6637 |
-   19 | kywedol                             |       13001 |
+    1 | Ralf Kistner                        |          82 | **1000 USD prize**
+    2 | Joran Dirk Greef                    |          83 | **700 USD prize**
+    3 | Mike Yudaken                        |          86 | **350 USD prize**
+    4 | Anton Koekemoer                     |         155 | 
+    5 | cr1s                                |         184 | 
+    6 | Simon Buerger                       |         185 | 
+    7 | Justin Lovell	                      |         195 |
+    8 | Nolan Pather	                      |         196 |
+    9 | Bernhard Häussermann                |         234 |
+   10 | Daniel Lawrence                     |         254 |
+   11 | Ken Ramela                          |         262 | 
+   12 | Gregg Jansen Van Vüren              |         582 |
+   13 | Richard Pierce-Jones                |         935 |
+   14 | Gerard Louw                         |         961 |
+   15 | Arthur Okeke                        |        1003 |
+   16 | Adam Katz                           |        2004 |
+   17 | Guillaume                           |        3880 |
+   18 | Ezinwa Okpoechi                     |        5430 |
+   19 | kywedol                             |       14747 |
       | Abdul Mueid                         |             |
       | Abimbola Idowu                      |             |
       | Agustin Cassani                     |             | Hors concours
