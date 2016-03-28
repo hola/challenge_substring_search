@@ -106,6 +106,8 @@ Hola is well funded and profitable ([read more about us](http://hola.org/about))
 * [Make JS strftime 50x faster](https://github.com/hola/challenge_strftime) (ended June 22, 2014)
 * [str_cpy & str_cat C challenge](https://github.com/hola/challenge_c) (2012–2014)
 
+# Final Results
+
 ## The Testing methodology
 The correctness and performance tests were automatic. Correctness is tested by `tests/correctness.js` and performance by `tests/performance.js`.
 
