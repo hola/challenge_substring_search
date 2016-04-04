@@ -1,0 +1,874 @@
+[
+    {
+        "name": "Abdul Mueid",
+        "correct": false
+    },
+    {
+        "name": "Abimbola Idowu",
+        "correct": false
+    },
+    {
+        "name": "Adam Katz",
+        "correct": true,
+        "performance_1x": [
+            1861,
+            1845,
+            1863,
+            1822,
+            1863,
+            1867,
+            1820,
+            1865,
+            1837,
+            1966
+        ],
+        "performance_20x": [
+            40501,
+            40481,
+            40467,
+            41401,
+            40436,
+            40539,
+            40516,
+            40519,
+            40476,
+            40513
+        ],
+        "performance_32x": null
+    },
+    {
+        "name": "Agustin Cassani",
+        "correct": false
+    },
+    {
+        "name": "Alex Schana",
+        "correct": false
+    },
+    {
+        "name": "Andre Ogle",
+        "correct": false
+    },
+    {
+        "name": "Anton Koekemoer",
+        "correct": true,
+        "performance_1x": [
+            196,
+            139,
+            156,
+            182,
+            139,
+            196,
+            175,
+            138,
+            172,
+            192
+        ],
+        "performance_20x": [
+            2642,
+            2642,
+            2654,
+            2643,
+            2601,
+            2667,
+            2601,
+            2640,
+            2601,
+            2637
+        ],
+        "performance_32x": [
+            5226,
+            5466,
+            5187,
+            5177,
+            5168,
+            5204,
+            5171,
+            5208,
+            5198,
+            5197
+        ]
+    },
+    {
+        "name": "Arlon Mukeba",
+        "correct": false
+    },
+    {
+        "name": "Arotimi Busayo",
+        "correct": false
+    },
+    {
+        "name": "Arthur Okeke",
+        "correct": true,
+        "performance_1x": [
+            974,
+            957,
+            965,
+            978,
+            923,
+            913,
+            923,
+            936,
+            972,
+            915
+        ],
+        "performance_20x": [
+            17903,
+            17747,
+            17819,
+            17858,
+            17736,
+            17704,
+            17888,
+            17765,
+            17742,
+            17835
+        ],
+        "performance_32x": [
+            28715,
+            28855,
+            28478,
+            28417,
+            28450,
+            28503,
+            28304,
+            28357,
+            28552,
+            28314
+        ]
+    },
+    {
+        "name": "Barry Doyle",
+        "correct": false
+    },
+    {
+        "name": "Bbundi",
+        "correct": false
+    },
+    {
+        "name": "Bernhard Häussermann",
+        "correct": true,
+        "performance_1x": [
+            264,
+            247,
+            210,
+            210,
+            209,
+            218,
+            223,
+            210,
+            271,
+            256
+        ],
+        "performance_20x": [
+            4217,
+            4217,
+            4214,
+            4218,
+            4216,
+            4217,
+            4214,
+            4218,
+            4216,
+            4216
+        ],
+        "performance_32x": [
+            6597,
+            6597,
+            6599,
+            6599,
+            6599,
+            6598,
+            6598,
+            6598,
+            6596,
+            6595
+        ]
+    },
+    {
+        "name": "Brad Roodt",
+        "correct": false
+    },
+    {
+        "name": "Brendan Bell",
+        "correct": false
+    },
+    {
+        "name": "Brian Nyaundi",
+        "correct": false
+    },
+    {
+        "name": "Charles Okot",
+        "correct": false
+    },
+    {
+        "name": "Chris Brand",
+        "correct": false
+    },
+    {
+        "name": "Christo Goosen",
+        "correct": false
+    },
+    {
+        "name": "Coert Grobbelaar",
+        "correct": false
+    },
+    {
+        "name": "Cornelius van Heerden",
+        "correct": false
+    },
+    {
+        "name": "cr1s",
+        "correct": true,
+        "performance_1x": [
+            199,
+            165,
+            221,
+            219,
+            203,
+            188,
+            165,
+            169,
+            164,
+            215
+        ],
+        "performance_20x": [
+            3439,
+            3438,
+            3433,
+            3438,
+            3435,
+            3435,
+            3438,
+            3436,
+            3437,
+            3438
+        ],
+        "performance_32x": [
+            5634,
+            5644,
+            5645,
+            5646,
+            5644,
+            5646,
+            5645,
+            5644,
+            5643,
+            5643
+        ]
+    },
+    {
+        "name": "Daniel Lawrence",
+        "correct": true,
+        "performance_1x": [
+            287,
+            267,
+            231,
+            230,
+            230,
+            245,
+            287,
+            270,
+            235,
+            284
+        ],
+        "performance_20x": [
+            4462,
+            4466,
+            4533,
+            4474,
+            4434,
+            4529,
+            4545,
+            4544,
+            4542,
+            4454
+        ],
+        "performance_32x": [
+            8103,
+            8140,
+            8102,
+            8163,
+            8165,
+            8132,
+            8143,
+            8110,
+            8122,
+            8126
+        ]
+    },
+    {
+        "name": "Eni Arinde",
+        "correct": false
+    },
+    {
+        "name": "Ezinwa Okpoechi",
+        "correct": true,
+        "performance_1x": [
+            5032,
+            5044,
+            5037,
+            5032,
+            5049,
+            5050,
+            5033,
+            5063,
+            5061,
+            5047
+        ],
+        "performance_20x": [
+            157500,
+            157092,
+            158355,
+            157526,
+            157603,
+            157533,
+            159549,
+            157279,
+            157634,
+            158138
+        ],
+        "performance_32x": [
+            405820,
+            433725,
+            407560,
+            425533,
+            410456,
+            411589,
+            405987,
+            409996,
+            413436,
+            421536
+        ]
+    },
+    {
+        "name": "Gareth McCumskey",
+        "correct": false
+    },
+    {
+        "name": "Gerard Louw",
+        "correct": true,
+        "performance_1x": [
+            920,
+            921,
+            923,
+            932,
+            872,
+            876,
+            877,
+            904,
+            872,
+            885
+        ],
+        "performance_20x": [
+            18759,
+            18740,
+            18758,
+            18754,
+            18736,
+            18852,
+            18729,
+            18846,
+            18729,
+            18766
+        ],
+        "performance_32x": [
+            28576,
+            29327,
+            29057,
+            29009,
+            28658,
+            29196,
+            29123,
+            28505,
+            28431,
+            28448
+        ]
+    },
+    {
+        "name": "Greg Rebisz",
+        "correct": false
+    },
+    {
+        "name": "Gregg Jansen Van Vüren",
+        "correct": true,
+        "performance_1x": [
+            528,
+            589,
+            583,
+            573,
+            525,
+            525,
+            525,
+            526,
+            525,
+            529
+        ],
+        "performance_20x": [
+            3046,
+            3049,
+            3048,
+            3048,
+            3046,
+            3050,
+            3050,
+            3046,
+            3049,
+            3045
+        ],
+        "performance_32x": [
+            19849,
+            19953,
+            19778,
+            19933,
+            19929,
+            19815,
+            19775,
+            19767,
+            19856,
+            19849
+        ]
+    },
+    {
+        "name": "Guillaume",
+        "correct": true,
+        "performance_1x": [
+            3578,
+            3601,
+            3537,
+            3563,
+            3595,
+            3596,
+            3598,
+            3568,
+            3534,
+            3586
+        ],
+        "performance_20x": [
+            75014,
+            74915,
+            74799,
+            74947,
+            74851,
+            74795,
+            74881,
+            74888,
+            74813,
+            74914
+        ],
+        "performance_32x": [
+            115195,
+            115130,
+            115177,
+            115113,
+            115128,
+            115146,
+            115129,
+            115108,
+            115115,
+            115091
+        ]
+    },
+    {
+        "name": "Gustav Bertram",
+        "correct": false
+    },
+    {
+        "name": "John",
+        "correct": false
+    },
+    {
+        "name": "Jono Booth",
+        "correct": false
+    },
+    {
+        "name": "Joran Dirk Greef",
+        "correct": true,
+        "performance_1x": [
+            82,
+            77,
+            85,
+            121,
+            81,
+            80,
+            76,
+            77,
+            123,
+            89,
+            78
+        ],
+        "performance_20x": [
+            1360,
+            1369,
+            1356,
+            1362,
+            1362,
+            1373,
+            1362,
+            1365,
+            1359,
+            1380
+        ],
+        "performance_32x": [
+            1949,
+            1964,
+            1952,
+            1961,
+            1956,
+            1952,
+            1955,
+            1945,
+            1956,
+            1947
+        ]
+    },
+    {
+        "name": "Justin Lovell",
+        "correct": true,
+        "performance_1x": [
+            234,
+            174,
+            201,
+            231,
+            223,
+            233,
+            209,
+            205,
+            174,
+            226
+        ],
+        "performance_20x": [
+            3571,
+            3573,
+            3569,
+            3572,
+            3575,
+            3570,
+            3571,
+            3569,
+            3569,
+            3572
+        ],
+        "performance_32x": [
+            6160,
+            6163,
+            6163,
+            6169,
+            6162,
+            6167,
+            6163,
+            6162,
+            6160,
+            6167
+        ]
+    },
+    {
+        "name": "Ken Ramela",
+        "correct": true,
+        "performance_1x": [
+            263,
+            261,
+            233,
+            275,
+            236,
+            232,
+            230,
+            245,
+            232,
+            259
+        ],
+        "performance_20x": [
+            3346,
+            3373,
+            3358,
+            3365,
+            3365,
+            3346,
+            3357,
+            3351,
+            3387,
+            3362
+        ],
+        "performance_32x": [
+            7562,
+            7581,
+            7685,
+            7610,
+            7583,
+            7754,
+            7701,
+            7565,
+            7566,
+            7559
+        ]
+    },
+    {
+        "name": "Kenneth Nnani",
+        "correct": false
+    },
+    {
+        "name": "Kobus Pretorius",
+        "correct": false
+    },
+    {
+        "name": "Kobus Pretorius",
+        "correct": false
+    },
+    {
+        "name": "kywedol",
+        "correct": true,
+        "performance_1x": [
+            10906,
+            10905,
+            10865,
+            10913,
+            10912,
+            10871,
+            10894,
+            10903,
+            10902,
+            10854
+        ],
+        "performance_20x": [
+            224951,
+            224863,
+            224891,
+            224909,
+            224442,
+            224692,
+            224357,
+            224603,
+            224426,
+            224586
+        ],
+        "performance_32x": null
+    },
+    {
+        "name": "Lawrence Nyakiso",
+        "correct": false
+    },
+    {
+        "name": "Lukas Havenga",
+        "correct": false
+    },
+    {
+        "name": "Mbah Emeka Anthony",
+        "correct": false
+    },
+    {
+        "name": "Melcom van Eeden",
+        "correct": false
+    },
+    {
+        "name": "Mike Yudaken",
+        "correct": true,
+        "performance_1x": [
+            86,
+            113,
+            127,
+            82,
+            89,
+            103,
+            108,
+            129,
+            107,
+            79
+        ],
+        "performance_20x": [
+            1439,
+            1439,
+            1439,
+            1436,
+            1436,
+            1437,
+            1435,
+            1439,
+            1436,
+            1436
+        ],
+        "performance_32x": [
+            3713,
+            3719,
+            3719,
+            3721,
+            3721,
+            3713,
+            3711,
+            3709,
+            3715,
+            3712
+        ]
+    },
+    {
+        "name": "Nolan Pather",
+        "correct": true,
+        "performance_1x": [
+            220,
+            186,
+            204,
+            221,
+            224,
+            216,
+            224,
+            202,
+            225,
+            196
+        ],
+        "performance_20x": [
+            3437,
+            3439,
+            3438,
+            3437,
+            3440,
+            3437,
+            3441,
+            3441,
+            3437,
+            3441
+        ],
+        "performance_32x": [
+            5647,
+            5647,
+            5645,
+            5643,
+            5647,
+            5648,
+            5647,
+            5646,
+            5648,
+            5647
+        ]
+    },
+    {
+        "name": "Ralf Kistner",
+        "correct": true,
+        "performance_1x": [
+            82,
+            77,
+            88,
+            77,
+            102,
+            118,
+            89,
+            98,
+            77,
+            118,
+            123
+        ],
+        "performance_20x": [
+            1436,
+            1435,
+            1435,
+            1439,
+            1436,
+            1435,
+            1439,
+            1436,
+            1435,
+            1436
+        ],
+        "performance_32x": [
+            3616,
+            3678,
+            3616,
+            3620,
+            3613,
+            3634,
+            3616,
+            3619,
+            3619,
+            3747
+        ]
+    },
+    {
+        "name": "Richard Pierce-Jones",
+        "correct": true,
+        "performance_1x": [
+            907,
+            908,
+            905,
+            902,
+            916,
+            911,
+            915,
+            851,
+            847,
+            853
+        ],
+        "performance_20x": [
+            17228,
+            17417,
+            17311,
+            17323,
+            17234,
+            17414,
+            17329,
+            17408,
+            17241,
+            17371
+        ],
+        "performance_32x": [
+            27848,
+            27535,
+            27710,
+            27424,
+            27555,
+            27765,
+            28055,
+            27663,
+            27566,
+            27944
+        ]
+    },
+    {
+        "name": "Rory Gilfillan",
+        "correct": false
+    },
+    {
+        "name": "Shailesh Shekhawat",
+        "correct": false
+    },
+    {
+        "name": "Simon Buerger",
+        "correct": true,
+        "performance_1x": [
+            195,
+            165,
+            225,
+            166,
+            225,
+            220,
+            203,
+            220,
+            165,
+            164
+        ],
+        "performance_20x": [
+            3437,
+            3435,
+            3439,
+            3438,
+            3434,
+            3439,
+            3435,
+            3438,
+            3438,
+            3434
+        ],
+        "performance_32x": [
+            5639,
+            5640,
+            5643,
+            5635,
+            5643,
+            5641,
+            5642,
+            5645,
+            5643,
+            5643
+        ]
+    },
+    {
+        "name": "Ziv Perry",
+        "correct": false
+    }
+]
