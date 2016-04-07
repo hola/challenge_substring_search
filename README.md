@@ -138,8 +138,8 @@ Only the solutions that passed the correctness tests are assigned a rank in the 
 Place | Name                                |  1× time, ms | 20× time, ms | 32× time, ms | Remark
 -----:|-------------------------------------|-------------:|-------------:|-------------:|-------------------
     1 | Joran Dirk Greef                    |           76 |         1356 |         1945 | **1000 USD prize**
-    2 | Mike Yudaken                        |           79 |         1435 |         3709 | **700 USD prize**
-    3 | Ralf Kistner                        |           77 |         1435 |         3613 | **350 USD prize**
+    2 | Ralf Kistner                        |           77 |         1435 |         3613 | **700 USD prize**
+    3 | Mike Yudaken                        |           79 |         1435 |         3709 | **350 USD prize**
     4 | Anton Koekemoer                     |          138 |         2601 |         5168 |
     5 | Gregg Jansen Van Vüren              |          525 |         3045 |        19767 |
     6 | Ken Ramela                          |          230 |         3346 |         7559 |
