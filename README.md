@@ -1,4 +1,6 @@
-# Hola JS Africa Challenge: substring search
+# Hola JS Africa Challenge: substring search (final results)
+
+**Thanks to all who participated!**
 
 Welcome to Hola's new JS programming challenge! Do you have the skills to write the fastest code? There's prize money at stake:
 
@@ -131,7 +133,7 @@ With the full 5.5 MB body of Shakespeare's works as the haystack, many of the so
 
 The raw results of the performance measurements for every run of every solution can be found in `raw_results.json`.
 
-## Current results (will be finilized after completion of public discussion)
+## Final results
 
 Only the solutions that passed the correctness tests are assigned a rank in the table below.
 
