@@ -1,4 +1,4 @@
-# Hola JS Africa Challenge: substring search (final results)
+# <img src=https://hola.org/img/hola_clean.png> Hola JS Africa Challenge: substring search (final results)
 
 **Thanks to all who participated!**
 
